@@ -1,0 +1,28 @@
+.background-blue {
+  background: blue;
+  color: white;
+  font-size: 48px;
+}
+
+nav .navbar {
+  background-color: black;
+}
+
+.jumbotron {
+  background-size: cover;
+  width: 100%;
+}
+
+.container {
+height: 200px;
+}
+
+#bs-example-navbar-collapse-1 {
+  background: black;
+
+}
+.navbar-default {
+
+    color: white;
+
+}
